@@ -47,7 +47,10 @@ async def welcome():
     <body>
         <div class="welcome-message">
             <h1>🎉Welcome to Heimdallr!🎉</h1>
-            <p>部署成功！查看<a href="/docs">接口文档</a></p>
+            <p><a href="/docs">接口文档</a></p>
+                         <p><a href="https://heimdallr-configurator.vercel.app/">配置生成器</a></p>
+
+            
             <p class="small-text">不知道怎么用？查看<a href="https://github.com/LeslieLeung/heimdallr#%E7%A4%BA%E4%BE%8B%E5%BA%94%E7%94%A8" target="_blank">示例应用</a></p>
         </div>
         <footer>
