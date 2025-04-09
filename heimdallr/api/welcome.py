@@ -194,7 +194,7 @@ async def welcome():
             
             <div class="links">
                 <a href="/docs" class="link-item">API Documentation</a>
-                <a href="https://heimdallr-configurator.vercel.app/ target="_blank"" class="link-item secondary">Configuration Generator</a>
+                <a href="https://heimdallr-configurator.vercel.app/" target="_blank" class="link-item secondary">Configuration Generator</a>
                 <a href="https://github.com/LeslieLeung/heimdallr#%E7%A4%BA%E4%BE%8B%E5%BA%94%E7%94%A8" target="_blank" class="link-item accent">Example Applications</a>
             </div>
             
